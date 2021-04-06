@@ -1,4 +1,4 @@
-# postgresql_boston_crimes
+# PostgreSQL Boston Crimes
 Through this project we build a Database to store data related with crimes ocurred in Boston. The dataset is available in a file named boston.csv in this repository.
 In the notebook we learned and put some skills into practice such as:
 
